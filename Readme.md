@@ -1,4 +1,6 @@
+<div align="center">
 ![poster](getnet-image.png)
+</div>
 
 ## 🤘 Sobre
 
