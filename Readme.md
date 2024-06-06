@@ -1,5 +1,5 @@
 <div align="center">
-![poster](getnet-image.png)
+    <img width="tamanho da imagem" title="getnet" src="getnet-image.png"/>
 </div>
 
 ## 🤘 Sobre
